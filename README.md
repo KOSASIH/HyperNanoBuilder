@@ -9,7 +9,8 @@ Building structures at the hypernano level, pushing the boundaries of AI-facilit
 - [Technologies](#technologies)
 - [Problems To Solve](#problems-to-solve)
 - [Contributor Guide](#contributor-guide)
-- [Guide](#guide) 
+- [Guide](#guide)
+- [Roadmap](#roadmap) 
 
 # Description 
 
@@ -473,3 +474,55 @@ world.DestroyBody(block_body)
 This code sets up a Box2D world with a ground body and a hypernano-level building block body. It then simulates the construction process for 100 steps, updating the positions of the building blocks in each step. Finally, it cleans up the simulation by destroying the bodies.
 
 Please note that this code is just a basic example and may need to be extended depending on your specific requirements for hypernano-level construction.
+
+# Roadmap 
+
+## HyperNanoBuilder Roadmap
+
+### Phase 1: Foundation (Duration: 6 months)
+
+- **Research and Development:**
+  - Conduct in-depth research on hypernano-scale construction techniques and materials.
+  - Experiment with AI models and algorithms suitable for hypernano building.
+
+- **Team Formation and Collaboration:**
+  - Assemble a core team of experts in nanotechnology, AI, robotics, and materials science.
+  - Establish collaboration with research institutions and experts in the field.
+
+- **Prototype Development:**
+  - Develop initial prototypes to test the feasibility of hypernano construction techniques.
+
+### Phase 2: Refinement (Duration: 1 year)
+
+- **AI and Automation Integration:**
+  - Further refine AI algorithms to optimize precision and accuracy in construction processes.
+  - Integrate automation and robotics for efficient construction at the hypernano level.
+
+- **Material Innovation:**
+  - Explore and develop advanced materials specifically tailored for hypernano construction.
+  - Test and refine the durability and reliability of these materials.
+
+- **Scale Testing:**
+  - Test scalability of the developed techniques and materials for larger hypernano structures.
+
+### Phase 3: Expansion and Implementation (Duration: Ongoing)
+
+- **Pilot Projects:**
+  - Initiate pilot projects to apply hypernano construction techniques in real-world scenarios.
+  - Collect data and feedback for iterative improvements.
+
+- **Commercialization and Partnerships:**
+  - Identify potential commercial applications and establish partnerships for implementation.
+
+- **Community Engagement:**
+  - Host workshops, seminars, and open-source collaborations to engage with the broader scientific and construction communities.
+
+### Future Directions
+
+- **Continued Research and Innovation:**
+  - Explore further frontiers in hypernano construction techniques and materials.
+  - Continuously innovate and push the boundaries of what's achievable in the hypernano realm.
+
+- **Global Adoption:**
+  - Work towards widespread adoption of hypernano construction methodologies in various industries, including healthcare, infrastructure, and more.
+
