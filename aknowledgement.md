@@ -14,7 +14,7 @@ Your collective contributions and unwavering commitment have been indispensable 
 
 With profound gratitude,
 
-KOSASIH 
+[KOSASIH](https://www.linkedin.com/in/kosasih-81b46b5a) 
 
 Creator Of HyperNanoBuilder and Team
 
