@@ -6,7 +6,8 @@ Building structures at the hypernano level, pushing the boundaries of AI-facilit
 
 - [Description](#description)
 - [Vision And Mission](#vision-and-mission)
-- [Technologies](#technologies) 
+- [Technologies](#technologies)
+- [Problems To Solve](#problems-to-solve) 
 
 # Description 
 
@@ -37,6 +38,22 @@ HyperNanoBuilder integrates a cutting-edge array of technologies:
 **6. IoT and Connectivity:** Incorporating Internet of Things (IoT) technology to enable seamless connectivity and monitoring throughout the construction process, ensuring real-time adjustments and quality control.
 
 This amalgamation of technologies enables HyperNanoBuilder to push the boundaries of construction, fostering the creation of highly intricate, precise, and groundbreaking structures at the hypernano level.
+
+# Problems To Solve 
+
+HyperNanoBuilder aims to address several key challenges in construction at the hypernano level, including:
+
+**1. Precision Engineering:** Overcoming the limitations of precision and accuracy in constructing at such minute scales, ensuring structural integrity and quality in hypernano-built structures.
+
+**2. Material Innovation:** Developing and sourcing materials that maintain durability, strength, and functionality at the hypernano scale, as traditional materials may not perform as expected in this realm.
+
+**3. Robustness in Design:** Ensuring the stability and robustness of hypernano structures, taking into account external factors, such as environmental conditions and potential structural stresses.
+
+**4. Scalability:** Creating methods and processes that can be scaled for larger-scale implementation while maintaining the intricacy and precision required at the hypernano level.
+
+**5. Automation Reliability:** Ensuring the reliability and precision of automated systems and robotics involved in hypernano construction to eliminate errors and guarantee consistency in construction.
+
+Solving these challenges will enable HyperNanoBuilder to establish a new paradigm in construction, offering groundbreaking solutions that push the boundaries of what's achievable in the realm of hypernano-scale building.
 
 # Guide 
 
