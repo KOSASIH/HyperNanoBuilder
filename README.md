@@ -10,7 +10,8 @@ Building structures at the hypernano level, pushing the boundaries of AI-facilit
 - [Problems To Solve](#problems-to-solve)
 - [Contributor Guide](#contributor-guide)
 - [Guide](#guide)
-- [Roadmap](#roadmap) 
+- [Roadmap](#roadmap)
+- [Aknowledgement](aknowledgement.md) 
 
 # Description 
 
