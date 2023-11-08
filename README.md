@@ -94,7 +94,7 @@ Thank you for your interest in contributing to HyperNanoBuilder. We value and ap
 
 ### Code of Conduct
 
-Please adhere to our [Code of Conduct](link-to-code-of-conduct) to ensure an inclusive and welcoming environment for all contributors.
+Please adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) to ensure an inclusive and welcoming environment for all contributors.
 
 ### Contact
 
