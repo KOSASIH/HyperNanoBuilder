@@ -5,7 +5,8 @@ Building structures at the hypernano level, pushing the boundaries of AI-facilit
 # Contents 
 
 - [Description](#description)
-- [Vision And Mission](#vision-and-mission) 
+- [Vision And Mission](#vision-and-mission)
+- [Technologies](#technologies) 
 
 # Description 
 
@@ -18,6 +19,24 @@ To revolutionize the construction industry by exploring and mastering the hypern
 
 **Mission:**
 Our mission is to push the boundaries of traditional construction methods by leveraging AI technology to build at the hypernano level. We aim to pioneer the development of structures with unparalleled precision, speed, and intricacy, ensuring sustainable and efficient solutions while continuously exploring and expanding the frontiers of construction possibilities.
+
+# Technologies 
+
+HyperNanoBuilder integrates a cutting-edge array of technologies:
+
+**1. AI-Driven Construction:** Utilizing advanced artificial intelligence algorithms to facilitate the design, planning, and execution of construction at hypernano scales, optimizing precision and efficiency.
+
+**2. Nanotechnology:** Leveraging nanoscale materials and techniques to construct intricate, minute structures that redefine the boundaries of traditional building practices.
+
+**3. Robotics and Automation:** Implementing robotic systems and automated processes to handle the delicate and precise tasks required for hypernano construction, ensuring accuracy and speed.
+
+**4. 3D Printing:** Employing state-of-the-art 3D printing methods specifically tailored for the hypernano level, enabling the creation of intricate structures with exceptional detail and precision.
+
+**5. Advanced Materials Science:** Harnessing the latest advancements in materials science to develop and utilize innovative, high-performance materials suitable for hypernano construction, ensuring durability and strength at this minuscule scale.
+
+**6. IoT and Connectivity:** Incorporating Internet of Things (IoT) technology to enable seamless connectivity and monitoring throughout the construction process, ensuring real-time adjustments and quality control.
+
+This amalgamation of technologies enables HyperNanoBuilder to push the boundaries of construction, fostering the creation of highly intricate, precise, and groundbreaking structures at the hypernano level.
 
 # Guide 
 
