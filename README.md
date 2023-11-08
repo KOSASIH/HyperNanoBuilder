@@ -7,7 +7,8 @@ Building structures at the hypernano level, pushing the boundaries of AI-facilit
 - [Description](#description)
 - [Vision And Mission](#vision-and-mission)
 - [Technologies](#technologies)
-- [Problems To Solve](#problems-to-solve) 
+- [Problems To Solve](#problems-to-solve)
+- [Contributor Guide](#contributor-guide) 
 
 # Description 
 
@@ -54,6 +55,52 @@ HyperNanoBuilder aims to address several key challenges in construction at the h
 **5. Automation Reliability:** Ensuring the reliability and precision of automated systems and robotics involved in hypernano construction to eliminate errors and guarantee consistency in construction.
 
 Solving these challenges will enable HyperNanoBuilder to establish a new paradigm in construction, offering groundbreaking solutions that push the boundaries of what's achievable in the realm of hypernano-scale building.
+
+# Contributor Guide 
+
+Certainly! Below is a basic template for a contributor guide for the HyperNanoBuilder GitHub repository:
+
+---
+
+## HyperNanoBuilder GitHub Repository Contributor Guide
+
+### Welcome Contributors!
+
+Thank you for your interest in contributing to HyperNanoBuilder. We value and appreciate your help in pushing the boundaries of hypernano-scale construction. To ensure a smooth collaboration, please follow these guidelines:
+
+### Getting Started
+
+1. **Fork the Repository:** Click the "Fork" button on the top right to create your own copy of the repository.
+
+2. **Clone the Repository:** Use `git clone [URL of your fork]` to clone the repository to your local machine.
+
+3. **Create a Branch:** For each new contribution, create a new branch using `git checkout -b branch-name`.
+
+### Contribution Guidelines
+
+1. **Code Standards:** Maintain high code quality. Follow the existing code style and naming conventions.
+
+2. **Documentation:** Document any new features, methods, or significant changes you make.
+
+3. **Testing:** Ensure that your changes do not break the existing functionalities. If applicable, add new tests to validate the changes.
+
+4. **Pull Requests:** Submit your changes as a pull request to the main repository. Ensure a clear and concise description of your changes.
+
+### Community Guidelines
+
+1. **Respect Others:** Be respectful and considerate towards other contributors.
+
+2. **Open Discussions:** Feel free to open discussions, suggest improvements, or ask questions through issues or pull requests.
+
+### Code of Conduct
+
+Please adhere to our [Code of Conduct](link-to-code-of-conduct) to ensure an inclusive and welcoming environment for all contributors.
+
+### Contact
+
+For any questions or support, reach out to support@hypernanobuilder.com.
+
+### Thank you for contributing to HyperNanoBuilder and being a part of our innovation journey!
 
 # Guide 
 
